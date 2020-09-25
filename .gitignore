@@ -3,3 +3,4 @@ venv/
 .env*
 logs/*
 cron_run.sh
+**/__pycache__
